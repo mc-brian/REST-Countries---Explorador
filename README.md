@@ -38,4 +38,4 @@ Alternativamente, ingresar al proyecto en GitHub Pages. Puede ser visualizado en
 
 ## Créditos
 
-Este proyecto fue realizado como parte del programa **Jóvenes a Programar**.
+Este proyecto fue desarrollado como parte del programa **[Jóvenes a Programar](https://jovenesaprogramar.edu.uy/)**.
